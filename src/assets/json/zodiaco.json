@@ -1,0 +1,109 @@
+[{
+		"signo": "Aries",
+		"id": 1,
+		"elemento": "Fuego",
+		"imagen": "aries.png",
+		"simbolo": "El Carnero",
+		"descripcion": " El carnero con el que viajaron Frixio y Hele, cuando salieron de su país natal para llegar a la Cólquide. Fue posteriormente el vellocino de oro.",
+		"meses": [3, 4]
+	},
+	{
+		"signo": "Tauro",
+		"id": 2,
+		"elemento": "Tierra",
+		"imagen": "tauro.png",
+		"simbolo": "El Toro",
+		"descripcion": "En astrología, Tauro es el segundo signo del zodiaco y el primero de cualidad fija y negativa.1​2​ Este signo según la astrología occidental, regido por el planeta Venus, tierra y naturaleza, influye y presenta cualidades similares a lo leal en el contexto de la cualidad afectiva.",
+		"meses": [4, 5]
+	},
+	{
+		"signo": "Géminis",
+		"id": 3,
+		"elemento": "Aire",
+		"imagen": "gemini.png",
+		"simbolo": "Los Gemelos",
+		"descripcion": "Los gemelos Cástor y Pólux. Pólux era inmortal, no así su hermano Cástor. Cuando Cástor murió, Pólux ofreció su inmortalidad por salvar a su hermano.",
+		"meses": [5, 6]
+	},
+	{
+		"signo": "Cáncer",
+		"id": 4,
+		"elemento": "Agua",
+		"imagen": "cancer.png",
+		"simbolo": "Cangrejo",
+		"descripcion": " El cangrejo que envió Hera a ayudar a la Hidra de Lerna, cuando ésta luchaba contra Hércules.",
+		"meses": [6, 7]
+	},
+	{
+		"signo": "Leo",
+		"id": 5,
+		"elemento": "Fuego",
+		"imagen": "leo.png",
+		"simbolo": "El Leon",
+		"descripcion": "El León de Nemea, muerto a manos de Hércules, que lo estranguló, pues su piel era impenetrable. El héroe lo despellejó con sus propias garras (lo único que podía herirlo) y se quedó la piel como su símbolo.",
+		"meses": [7, 8]
+	},
+	{
+		"signo": "Virgo",
+		"id": 6,
+		"elemento": "Tierra",
+		"imagen": "virgo.png",
+		"simbolo": "La Virgen",
+		"descripcion": " El mito es el de Astrea, hija de Zeus y Temis. Ayudó a su padre como portadora de los rayos durante la guerra con los titanes. En recompensa a su lealtad, Zeus la subió al cielo y situó entre las estrellas, dando origen a esta constelación y fin a la presencia entre los humanos de la última inmortal de la Edad Dorada.",
+		"meses": [8, 9]
+	},
+	{
+		"signo": "Libra",
+		"id": 7,
+		"elemento": "Aire",
+		"imagen": "libra.png",
+		"simbolo": "Balanza",
+		"descripcion": " Es el único signo que no es un animal, se asocia a la diosa Astrea. Hasta los tiempos de Augusto, las estrellas de Libra formaban parte de las pinzas de Escorpio, pues se consideraban once signos zodiacales.6​ No obstante, Libra ya era conocida por la astronomía mesopotámica como MUL Zibanu (la balanza), atributo del dios Shamash, custodio de la justicia",
+		"meses": [9, 10]
+	},
+	{
+		"signo": "Escorpio",
+		"id": 8,
+		"elemento": "Agua",
+		"imagen": "scorpio.png",
+		"simbolo": "Escorpion",
+		"descripcion": "Escorpión que la diosa Artemisa envió contra el gigante cazador Orión. Orión lo pisó y el escorpión le clavó el aguijón. Ambos murieron y Zeus puso a cada uno en frente del otro, para que no se peleasen.",
+		"meses": [10, 11]
+	},
+	{
+		"signo": "Sagitario",
+		"id": 9,
+		"elemento": "Fuego",
+		"imagen": "sagitario.png",
+		"simbolo": "El arquero",
+		"descripcion": "El centauro Quirón, médico de los médicos, cansado de su condición de inmortal, decidió cambiarla por la salvación de Prometeo. Cuando el trato estuvo formalizado, Prometeo le preguntó, Por qué lo has hecho ? Ahora que estás muerto, por mucho que te canses, no vas a poder cambiarlo",
+		"meses": [11, 12]
+	},
+	{
+		"signo": "Capricornio",
+		"id": 10,
+		"elemento": "Tierra",
+		"imagen": "capricornio.png",
+		"simbolo": "La cabra de mar",
+		"descripcion": "Representación de la Cabra Amaltea, la que amamantó a Zeus cuando su madre Rea lo escondió de la vista de su padre Cronos.",
+		"meses": [12, 1]
+	},
+	{
+		"signo": "Acuario",
+		"id": 11,
+		"elemento": "Aire",
+		"imagen": "aquario.png",
+		"simbolo": "El joven Ganímedes, el escanciador de los dioses en el Olimpo. Un joven de extremada belleza que consiguió el amor del dios Zeus.",
+		"descripcion": "El aguador",
+		"meses": [1, 2]
+	},
+	{
+		"signo": "Piscis",
+		"id": 12,
+		"elemento": "Agua",
+		"imagen": "pisis.png",
+		"simbolo": "Peces",
+		"descripcion": "Cuando los dioses huyeron del titán Tifón, muchos adoptaron formas animales. Eros y Afrodita lo hicieron en forma de peces y fueron pescados por un pescador. Otras fuentes dicen que fueron los malditos Cadmo y Harmonía los que fueron pescados.",
+		"meses": [2, 3]
+	}
+]
